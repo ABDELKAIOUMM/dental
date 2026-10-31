@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>سياسة الخصوصية — Celestia Smiles | Privacy Policy</title>
+<meta name="description" content="سياسة الخصوصية لعيادة سيليستيا سمايلز — Privacy Policy of Celestia Smiles.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cpath fill='%230b4ea2' d='M32 8c-6 0-9 3.4-14 3.4C10.6 11.4 6 16.6 6 24c0 9 5.4 12.6 7.6 22.4C15.4 54.4 17.6 60 21.4 60c4.6 0 4-9.6 6-15.6 1.2-3.6 2.6-5.6 4.6-5.6s3.4 2 4.6 5.6c2 6 1.4 15.6 6 15.6 3.8 0 6-5.6 7.8-13.6C52.6 36.6 58 33 58 24c0-7.4-4.6-12.6-12-12.6-5 0-8-3.4-14-3.4z'/%3E%3C/svg%3E">
+<style>
+  :root{--ink:#12263f;--muted:#5b6f88;--steel:#2e6db3;--bg:#f5f8fc}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.9 "IBM Plex Sans Arabic","Tajawal",system-ui,sans-serif}
+  .wrap{max-width:760px;margin:0 auto;padding:56px 22px 80px}
+  a.back{display:inline-block;margin-bottom:26px;color:var(--steel);text-decoration:none;font-weight:600}
+  a.back:hover{text-decoration:underline}
+  h1{font:800 30px/1.4 "Tajawal",system-ui,sans-serif;margin:0 0 4px}
+  h1 .en{display:block;font:600 17px/1.4 "Manrope",system-ui,sans-serif;color:var(--muted);margin-top:6px}
+  .stamp{display:inline-block;margin:14px 0 26px;padding:6px 14px;border:1px dashed #b9cbdf;border-radius:999px;color:#7d92ab;font-size:12.5px}
+  h2{font:700 19px/1.5 "Tajawal",system-ui,sans-serif;margin:30px 0 8px;color:var(--steel)}
+  h2 .en{color:var(--muted);font-weight:600;font-size:14px}
+  p{margin:0 0 10px}
+  .en-block{direction:ltr;text-align:left;border-inline-start:3px solid #dbe7f3;padding-inline-start:16px;margin-top:34px;color:#33475f}
+  .en-block h2{font-family:"Manrope",system-ui,sans-serif}
+  footer{margin-top:44px;padding-top:16px;border-top:1px solid #e4edf6;font-size:13px;color:#7d92ab}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <a class="back" href="index.html">← العودة إلى الموقع · Back to site</a>
+  <h1>سياسة الخصوصية<span class="en">Privacy Policy</span></h1>
+  <span class="stamp">نص استرشادي مؤقت — يُستبدل بالصيغة القانونية النهائية قبل الإطلاق الرسمي</span>
+<div id="legalBody">
+
+  <h2>١ · ما نجمعه <span class="en">What we collect</span></h2>
+  <p>حين ترسلون طلب استشارة عبر نموذج الحجز، نصل إلى اسمكم ونص رسالتكم واختياراتكم (الخدمة والأخصائي والوقت والفرع) عبر واتساب فقط. لا نطلب رقم هاتفكم ولا نخزنه في هذا الموقع.</p>
+  <h2>٢ · كيف نستخدمه <span class="en">How we use it</span></h2>
+  <p>تُستخدم البيانات للتواصل معكم بخصوص موعدكم فقط، ولا تُباع ولا تُشارك مع طرف ثالث لأغراض تسويقية.</p>
+  <h2>٣ · ملفات التخزين المحلي <span class="en">Local storage</span></h2>
+  <p>يحفظ المتصفح تفضيل اللغة لديكم (عربي/إنجليزي) محليًا على جهازكم فحسب، ولا يُرسل إلى أي خادم.</p>
+  <h2>٤ · حقوقكم <span class="en">Your rights</span></h2>
+  <p>لكم طلب حذف أي مراسلة تخصكم في أي وقت بمراسلة العيادة مباشرة على البريد المنشور في تذييل الموقع.</p>
+
+  <div class="en-block">
+    <h2>EN · Summary</h2>
+    <p>This placeholder policy states: the booking form sends your name, message and choices (service, specialist, time, branch) via WhatsApp only — no phone number is collected or stored by this site; data is used solely to arrange your visit and is never sold; language preference is kept in your browser's local storage only; you may request deletion of your correspondence at any time by emailing the clinic.</p>
+    <p><em>This is temporary guidance text to be replaced by final legal wording before public launch.</em></p>
+  </div>
+
+  </div>
+<footer>© 2026 Celestia Smiles · <a href="terms.html" style="color:inherit">شروط الاستخدام · Terms of Use</a></footer>
+</div>
+<script>
+(function(){
+  fetch('content.json',{cache:'no-store'}).then(function(r){return r.ok?r.json():null}).then(function(C){
+    if(!C||!C.sections||!C.sections.legal) return;
+    var f=(C.sections.legal.fields||[]).find(function(x){return x.id==='privacy'});
+    if(!f||!(f.ar||'').trim()||!(f.en||'').trim()) return;
+    var body=document.getElementById('legalBody'); if(!body) return;
+    var esc=function(t){return t.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')};
+    var ps=function(t){return t.split(/\n{2,}/).map(function(p){return '<p>'+esc(p).replace(/\n/g,'<br>')+'</p>'}).join('')};
+    body.innerHTML=ps(f.ar)+'<div class="en-block"><h2>EN</h2>'+ps(f.en)+'</div>';
+  }).catch(function(){});
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>لوحة تحكم سيليستيا سمايلز</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/admin.css?v=14">
+</head>
+<body>
+<div class="gate" id="gate" hidden>
+  <form class="gate-card" id="gateForm">
+    <h1>لوحة تحكم سيليستيا سمايلز</h1>
+    <p id="gateMsg">أدخلوا كلمة السر للمتابعة</p>
+    <input type="password" id="gatePass" autocomplete="current-password" placeholder="كلمة السر">
+    <input type="password" id="gatePass2" autocomplete="new-password" placeholder="أكدوا كلمة السر" hidden>
+    <button type="submit" class="btn primary" id="gateBtn">دخول</button>
+    <p class="gate-note">حتى حزمة دال: الحماية محلية على هذا الجهاز؛ كلمة السر تُخزن كبصمة رقمية فقط.</p>
+  </form>
+</div>
+<div class="shell" id="shell" hidden>
+  <header class="top">
+    <div class="top-r">
+      <button class="btn icon" id="btnSide" aria-label="قائمة الأقسام">☰</button>
+      <h1>لوحة تحكم سيليستيا سمايلز</h1>
+      <span class="pill" id="statPill">—</span>
+    </div>
+    <div class="top-l">
+      <button class="btn" id="btnReset">تصفير المسودة</button>
+      <button class="btn" id="btnPreview">معاينة حية</button>
+      <button class="btn" id="btnZip">تنزيل حزمة النشر</button>
+      <button class="btn primary" id="btnPublish">نشر</button>
+    </div>
+  </header>
+  <div class="backdrop" id="backdrop" hidden></div>
+  <div class="body">
+    <nav class="side" id="side"></nav>
+    <main class="main" id="main"><p class="loading">جارٍ تحميل المحتوى…</p></main>
+  </div>
+  <div class="prevwrap" id="prevwrap" hidden>
+    <header class="prev-top">
+      <b>معاينة المسودة على الموقع</b>
+      <span class="prev-acts">
+        <a class="btn" id="prevTab" href="index.html?cms-preview=1" target="_blank" rel="noopener">فتح في تبويب</a>
+        <button class="btn" id="prevClose">إغلاق المعاينة</button>
+      </span>
+    </header>
+    <iframe id="prevFrame" title="معاينة الموقع"></iframe>
+  </div>
+  <div class="bottombar">
+    <button class="btn primary" id="btnPublish2">نشر</button>
+    <button class="btn" id="btnPreview2">معاينة حية</button>
+  </div>
+</div>
+<script src="js/admin.js?v=14"></script>
+</body>
+</html>

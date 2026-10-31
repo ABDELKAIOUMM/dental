@@ -1,0 +1,1052 @@
+{
+ "v": 1,
+ "page": {
+  "title": {
+   "en": "Celestia Smiles — Premium Orthodontic & Aesthetic Studio",
+   "ar": "سيليستيا سمايلز — استوديو تقويم وتجميل الأسنان الفاخر"
+  },
+  "desc": {
+   "en": "Celestia Smiles: a premium orthodontic and aesthetic studio crafting confident smiles. Luxury care made personal.",
+   "ar": "سيليستيا سمايلز: استوديو تقويم وتجميل أسنان فاخر يصنع ابتسامات واثقة. رعاية فاخرة بطابع شخصي."
+  }
+ },
+ "copy": {
+  "nav + header": [
+   {
+    "en": "About Us",
+    "ar": "من نحن"
+   },
+   {
+    "en": "Services",
+    "ar": "خدماتنا"
+   },
+   {
+    "en": "Specialists",
+    "ar": "الأطباء"
+   },
+   {
+    "en": "Testimonials",
+    "ar": "آراء العملاء"
+   },
+   {
+    "en": "Contact",
+    "ar": "تواصلوا معنا"
+   }
+  ],
+  "hero": [
+   {
+    "en": "Not all smiles",
+    "ar": "ليست كل الابتسامات"
+   },
+   {
+    "en": "need fixing, some",
+    "ar": "بحاجة إلى إصلاح، بعضها"
+   },
+   {
+    "en": "need vision",
+    "ar": "بحاجة إلى رؤية"
+   },
+   {
+    "en": "We're a premium orthodontic and aesthetic studio crafting confident smiles for those who settle for nothing ordinary.",
+    "ar": "نحن استوديو تقويم وتجميل أسنان فاخر يصنع ابتسامات واثقة لمن لا يرضون بالعادي أبدًا."
+   },
+   {
+    "en": "Luxury care",
+    "ar": "رعاية فاخرة"
+   },
+   {
+    "en": "made personal",
+    "ar": "بطابع شخصي"
+   },
+   {
+    "en": "Celestia Smiles — Soft. Defined.",
+    "ar": "سيليستيا سمايلز — نعومةٌ وتحديد."
+   }
+  ],
+  "about": [
+   {
+    "en": "About us",
+    "ar": "من نحن"
+   },
+   {
+    "en": "OF 05",
+    "ar": "من 05"
+   },
+   {
+    "en": "Unveil excellence.<br>Discover the Celestia<br>Smiles difference.",
+    "ar": "اكتشفوا التميّز.<br>تعرّفوا على فرق سيليستيا سمايلز"
+   },
+   {
+    "en": "At Celestia Smiles, we believe that your smile deserves more than just care — it deserves celebration. Our board-certified experts offer a spa-like, comforting experience paired with cutting-edge dental and orthodontic treatments.",
+    "ar": "في سيليستيا سمايلز نؤمن أن ابتسامتكم تستحق أكثر من مجرد عناية — تستحق احتفاءً. خبراؤنا المعتمدون يقدمون تجربة مريحة بطابع المنتجعات، مقترنة بأحدث علاجات الأسنان والتقويم."
+   },
+   {
+    "en": "Years of excellence",
+    "ar": "سنة من التميز"
+   },
+   {
+    "en": "Patient satisfaction rate",
+    "ar": "نسبة رضا المرضى"
+   },
+   {
+    "en": "Smiles transformed",
+    "ar": "ابتسامة تحوّلت"
+   },
+   {
+    "en": "Certified experts",
+    "ar": "خبيرًا معتمدًا"
+   }
+  ],
+  "services": [
+   {
+    "en": "Expert care for every smile",
+    "ar": "عناية خبيرة لكل ابتسامة"
+   },
+   {
+    "en": "We offer a full spectrum of treatments — each tailored to elevate your health, confidence, and natural beauty.",
+    "ar": "نقدّم طيفًا كاملًا من العلاجات — كلٌّ منها مصمَّم ليرتقي بصحتكم وثقتكم وجمالكم الطبيعي."
+   },
+   {
+    "en": "Aesthetic dentistry",
+    "ar": "تجميل الأسنان"
+   },
+   {
+    "en": "Orthodontics",
+    "ar": "تقويم الأسنان"
+   },
+   {
+    "en": "Implantology",
+    "ar": "زرع الأسنان"
+   },
+   {
+    "en": "Whitening",
+    "ar": "تبييض الأسنان"
+   },
+   {
+    "en": "Surgical dentistry",
+    "ar": "جراحة الفم"
+   }
+  ],
+  "specialists": [
+   {
+    "en": "Meet the minds behind your smile",
+    "ar": "تعرّفوا على العقول خلف ابتسامتكم"
+   }
+  ],
+  "testimonials": [
+   {
+    "en": "Real stories. Real smiles.",
+    "ar": "حكايات حقيقية. ابتسامات حقيقية."
+   },
+   {
+    "en": "Before",
+    "ar": "قبل"
+   },
+   {
+    "en": "After",
+    "ar": "بعد"
+   },
+   {
+    "en": "Four smiles, kept promises.",
+    "ar": "أربع ابتسامات، ووعودٌ وفى بها."
+   },
+   {
+    "en": "Use thumbnails or arrow keys",
+    "ar": "استخدموا المصغّرات أو أسهم لوحة المفاتيح"
+   }
+  ],
+  "faq": [
+   {
+    "en": "FAQ",
+    "ar": "الأسئلة الشائعة"
+   },
+   {
+    "en": "Frequently asked questions",
+    "ar": "أسئلة تتكرر كثيرًا"
+   },
+   {
+    "en": "Straight answers before you ever sit in the chair.",
+    "ar": "إجابات مباشرة قبل أن تجلسوا على الكرسي."
+   },
+   {
+    "en": "Does treatment hurt?",
+    "ar": "هل العلاج مؤلم؟"
+   },
+   {
+    "en": "Almost never. We numb fully before we begin, and for anxious patients we offer sedation options so the visit passes calmly. You raise a hand at any moment and we stop.",
+    "ar": "نادراً جدًا. نخدّر تمامًا قبل أن نبدأ، وللمرضى القلقين نوفر خيارات تهدئة لتمضي الزيارة بهدوء. ارفعوا يدكم في أي لحظة ونتوقف."
+   },
+   {
+    "en": "What does a consultation cost?",
+    "ar": "كم تكلفة المعاينة؟"
+   },
+   {
+    "en": "A first consultation with full scanning is priced on our clinic price list, and it is credited back in full if you proceed with treatment within 30 days.",
+    "ar": "تُسعَّر المعاينة الأولى مع المسح الكامل في قائمة أسعار العيادة، وتُرد لكم كاملة إن بدأتم العلاج خلال 30 يومًا."
+   },
+   {
+    "en": "Can I pay in instalments?",
+    "ar": "هل يمكنني التقسيط؟"
+   },
+   {
+    "en": "Yes. Treatment plans over three months can be spread across interest-free monthly instalments, with longer regulated finance available for larger plans.",
+    "ar": "نعم. خطط العلاج فوق ثلاثة أشهر تُقسَّط شهريًا بلا فوائد، مع تمويل منظم أطول للخطط الأكبر."
+   },
+   {
+    "en": "How long does straightening take?",
+    "ar": "كم يستغرق التقويم؟"
+   },
+   {
+    "en": "Most aligner cases finish in 9–14 months. You see a 3D preview of your final smile and the expected timeline before you commit to anything.",
+    "ar": "معظم حالات التقويم الشفاف تنتهي خلال 9–14 شهرًا. ترون معاينة ثلاثية الأبعاد لابتسامتكم النهائية والجدول المتوقع قبل أي التزام."
+   },
+   {
+    "en": "I am anxious about dentists. Can you help?",
+    "ar": "أنا قلق من أطباء الأسنان، هل تساعدونني؟"
+   },
+   {
+    "en": "That is our most common visit. We book longer first visits, explain every step before it happens, and offer sedation for patients who need it. No judgement, ever.",
+    "ar": "هذه أكثر زياراتنا شيوعًا. نحجز زيارات أولى أطول، نشرح كل خطوة قبل حدوثها، ونوفر التهدئة لمن يحتاجها. بلا أي أحكام، أبدًا."
+   },
+   {
+    "en": "What counts as an emergency?",
+    "ar": "ماذا يُعد حالة طارئة؟"
+   },
+   {
+    "en": "Severe pain, swelling, a knocked-out tooth or a broken front tooth. Call us first thing: we keep same-day slots every working day for registered patients.",
+    "ar": "الألم الشديد، التورم، سن مخلوع، أو سن أمامي مكسور. اتصلوا بنا أول شيء: نحتفظ بمواعيد نفس اليوم لكل يوم عمل للمرضى المسجلين."
+   }
+  ],
+  "booking": [
+   {
+    "en": "Consultation",
+    "ar": "استشارة"
+   },
+   {
+    "en": "Book your first step",
+    "ar": "احجزوا خطوتكم الأولى"
+   },
+   {
+    "en": "Pick what suits you — we'll compose your<br>WhatsApp message automatically.",
+    "ar": "اختاروا ما يناسبكم — ونؤلّف رسالة<br>واتساب نيابة عنكم تلقائيًا."
+   },
+   {
+    "en": "Service",
+    "ar": "الخدمة"
+   },
+   {
+    "en": "Specialist",
+    "ar": "الأخصائي"
+   },
+   {
+    "en": "Date",
+    "ar": "التاريخ"
+   },
+   {
+    "en": "Time",
+    "ar": "الوقت"
+   },
+   {
+    "en": "Your name",
+    "ar": "اسمكم"
+   },
+   {
+    "en": "Notes (optional)",
+    "ar": "ملاحظات (اختياري)"
+   },
+   {
+    "en": "YOUR NAME",
+    "ar": "اسمكم"
+   },
+   {
+    "en": "NOTES (OPTIONAL)",
+    "ar": "ملاحظات (اختياري)"
+   },
+   {
+    "en": "SERVICE",
+    "ar": "الخدمة"
+   },
+   {
+    "en": "SPECIALIST",
+    "ar": "الأخصائي"
+   },
+   {
+    "en": "DATE",
+    "ar": "التاريخ"
+   },
+   {
+    "en": "TIME",
+    "ar": "الوقت"
+   },
+   {
+    "en": "Select service",
+    "ar": "اختاروا الخدمة"
+   },
+   {
+    "en": "Any specialist",
+    "ar": "أي أخصائي"
+   },
+   {
+    "en": "Not sure yet",
+    "ar": "لست متأكدًا بعد"
+   },
+   {
+    "en": "Morning",
+    "ar": "صباحًا"
+   },
+   {
+    "en": "Afternoon",
+    "ar": "ظهرًا"
+   },
+   {
+    "en": "Evening",
+    "ar": "مساءً"
+   },
+   {
+    "en": "Book on WhatsApp",
+    "ar": "احجزوا عبر واتساب"
+   },
+   {
+    "en": "Common questions",
+    "ar": "أسئلة شائعة"
+   },
+   {
+    "en": "Please add your name and pick a date — then we'll open WhatsApp for you.",
+    "ar": "أضيفوا اسمكم واختاروا تاريخًا — وسنفتح لكم واتساب."
+   }
+  ],
+  "footer": [
+   {
+    "en": "About",
+    "ar": "من نحن"
+   },
+   {
+    "en": "© 2026 Celestia Smiles. All rights reserved.",
+    "ar": "© 2026 سيليستيا سمايلز. جميع الحقوق محفوظة."
+   }
+  ]
+ },
+ "copyAttr": {
+  "aria and controls": [
+   {
+    "en": "Menu",
+    "ar": "القائمة"
+   },
+   {
+    "en": "Celestia Smiles home",
+    "ar": "الصفحة الرئيسية لسيليستيا سمايلز"
+   },
+   {
+    "en": "Previous service",
+    "ar": "الخدمة السابقة"
+   },
+   {
+    "en": "Next service",
+    "ar": "الخدمة التالية"
+   },
+   {
+    "en": "Previous specialist",
+    "ar": "الأخصائي السابق"
+   },
+   {
+    "en": "Next specialist",
+    "ar": "الأخصائي التالي"
+   },
+   {
+    "en": "Choose story",
+    "ar": "اختاروا حكاية"
+   },
+   {
+    "en": "Previous story",
+    "ar": "الحكاية السابقة"
+   },
+   {
+    "en": "Next story",
+    "ar": "الحكاية التالية"
+   },
+   {
+    "en": "Service",
+    "ar": "الخدمة"
+   },
+   {
+    "en": "Specialist",
+    "ar": "الأخصائي"
+   },
+   {
+    "en": "Preferred date",
+    "ar": "التاريخ المفضل"
+   },
+   {
+    "en": "Enter your name",
+    "ar": "أدخلوا اسمكم"
+   },
+   {
+    "en": "Anything we should know?",
+    "ar": "أي شيء ينبغي أن نعرفه؟"
+   },
+   {
+    "en": "Aesthetic dentistry / 01",
+    "ar": "تجميل الأسنان / 01"
+   },
+   {
+    "en": "Orthodontics / 02",
+    "ar": "تقويم الأسنان / 02"
+   },
+   {
+    "en": "Implantology / 03",
+    "ar": "زرع الأسنان / 03"
+   },
+   {
+    "en": "Whitening / 04",
+    "ar": "تبييض الأسنان / 04"
+   },
+   {
+    "en": "Morning (9-12)",
+    "ar": "صباحًا (9-12)"
+   },
+   {
+    "en": "Afternoon (12-4)",
+    "ar": "ظهرًا (12-4)"
+   }
+  ],
+  "doctors and specialties": [
+   {
+    "en": "Dr. David Wilson",
+    "ar": "د. ديفيد ويلسون"
+   },
+   {
+    "en": "Dr. Emma Robinson",
+    "ar": "د. إيما روبنسون"
+   },
+   {
+    "en": "Dr. Sophia Turner",
+    "ar": "د. صوفيا تورنر"
+   },
+   {
+    "en": "Dr. Olivia Bennett",
+    "ar": "د. أوليفيا بينيت"
+   },
+   {
+    "en": "Dr. James Carter",
+    "ar": "د. جيمس كارتر"
+   },
+   {
+    "en": "Dr. Daniel Hayes",
+    "ar": "د. دانيال هايز"
+   },
+   {
+    "en": "Orthodontist",
+    "ar": "تقويم الأسنان"
+   },
+   {
+    "en": "Aesthetic dentist",
+    "ar": "تجميل الأسنان"
+   },
+   {
+    "en": "Endodontist",
+    "ar": "علاج الجذور"
+   },
+   {
+    "en": "Prosthodontist",
+    "ar": "تعويضات الأسنان"
+   },
+   {
+    "en": "Implantologist",
+    "ar": "زرع الأسنان"
+   },
+   {
+    "en": "Oral surgeon",
+    "ar": "جراحة الفم"
+   }
+  ],
+  "stories and smiles": [
+   {
+    "en": "Christina's smile after treatment",
+    "ar": "ابتسامة كريستينا بعد العلاج"
+   },
+   {
+    "en": "Christina's smile before treatment",
+    "ar": "ابتسامة كريستينا قبل العلاج"
+   },
+   {
+    "en": "Marcus's smile after treatment",
+    "ar": "ابتسامة ماركوس بعد العلاج"
+   },
+   {
+    "en": "Marcus's smile before treatment",
+    "ar": "ابتسامة ماركوس قبل العلاج"
+   },
+   {
+    "en": "Elena's smile after treatment",
+    "ar": "ابتسامة إيلينا بعد العلاج"
+   },
+   {
+    "en": "Elena's smile before treatment",
+    "ar": "ابتسامة إيلينا قبل العلاج"
+   },
+   {
+    "en": "Sara's smile after treatment",
+    "ar": "ابتسامة سارا بعد العلاج"
+   },
+   {
+    "en": "Sara's smile before treatment",
+    "ar": "ابتسامة سارا قبل العلاج"
+   },
+   {
+    "en": "Christina's smile, transformed",
+    "ar": "ابتسامة كريستينا، تحوّلت"
+   },
+   {
+    "en": "Marcus's smile, straightened",
+    "ar": "ابتسامة ماركوس، استقامت"
+   },
+   {
+    "en": "Elena's smile, restored",
+    "ar": "ابتسامة إيلينا، استُعيدت"
+   },
+   {
+    "en": "Sara's smile, brightened",
+    "ar": "ابتسامة سارا، أشرقت"
+   },
+   {
+    "en": "Christina",
+    "ar": "كريستينا"
+   },
+   {
+    "en": "Marcus",
+    "ar": "ماركوس"
+   },
+   {
+    "en": "Elena",
+    "ar": "إيلينا"
+   },
+   {
+    "en": "Sara",
+    "ar": "سارا"
+   },
+   {
+    "en": "Christina felt self-conscious about the gaps and uneven shape of her teeth. Ultra-thin porcelain veneers gave her a balanced, natural, confidently beautiful smile.",
+    "ar": "كانت كريستينا تشعر بحرج من الفراغات وعدم انتظام شكل أسنانها. عدسات بورسلين فائقة الرقة منحتها ابتسامة متوازنة، طبيعية، جميلة بثقة."
+   },
+   {
+    "en": "Years of crowding made Marcus hide his smile in every photo. Nine months of clear-aligner therapy aligned his arch — no brackets, no interruptions, no compromises.",
+    "ar": "سنون من التزاحم جعلت ماركوس يخفي ابتسامته في كل صورة. تسعة أشهر من التقويم الشفاف صفّت قوسه — بلا حاصرات، بلا انقطاعات، بلا تنازلات."
+   },
+   {
+    "en": "A damaged, discolored molar changed the way Elena ate and smiled. A single 3D-guided implant brought back full function — and the confidence to laugh out loud again.",
+    "ar": "ضررٌ وتلوّن في ضرسٍ غيّرا طريقة إيلينا في الأكل والابتسام. زرعة واحدة موجهة ثلاثية الأبعاد أعادت الوظيفة كاملة — والثقة لتضحك ملء صوتها من جديد."
+   },
+   {
+    "en": "Coffee years left their mark on Sara’s smile. One in-studio laser session and a take-home kit turned the clock back several shades — safely and evenly.",
+    "ar": "Coffee years left their mark on Sara’s smile. One in-studio laser session and a take-home kit turned the clock back several shades — safely and evenly."
+   }
+  ],
+  "time chips": [
+   {
+    "en": "Evening (4-7)",
+    "ar": "مساءً (4-7)"
+   }
+  ]
+ },
+ "html": {
+  "foot-hours": {
+   "en": "<a href=\"mailto:hello@celestiasmiles.com\">hello@celestiasmiles.com</a> &nbsp;·&nbsp; Mon–Fri 9–7 &nbsp;·&nbsp; Sat 10–3",
+   "ar": "<a href=\"mailto:hello@celestiasmiles.com\">hello@celestiasmiles.com</a> &nbsp;·&nbsp; الإثنين–الجمعة 9–7 &nbsp;·&nbsp; السبت 10–3"
+  }
+ },
+ "contact": {
+  "wa": "442012345678",
+  "phone": "+44 20 1234 5678",
+  "email": "hello@celestiasmiles.com",
+  "hours": {
+   "en": "Mon–Fri 9–7 · Sat 10–3",
+   "ar": "الإثنين–الجمعة 9–7 · السبت 10–3"
+  },
+  "address": {
+   "en": "12 Harley Court, London",
+   "ar": "12 هارلي كورت، لندن"
+  }
+ },
+ "lists": {
+  "services": [
+   {
+    "id": "svc-1",
+    "name": {
+     "en": "Aesthetic dentistry",
+     "ar": "تجميل الأسنان"
+    },
+    "desc": {
+     "en": "Digital smile design, previewed on your face before we begin.",
+     "ar": "تصميم رقمي للابتسامة، تعاينونه على وجوهكم قبل أن نبدأ."
+    },
+    "facts": {
+     "en": [
+      "45–60 min visit",
+      "1–2 sessions",
+      "Porcelain & composite"
+     ],
+     "ar": [
+      "زيارة 45–60 دقيقة",
+      "جلسة إلى جلستين",
+      "بورسلين وكومبوزيت"
+     ]
+    },
+    "accent": "#0b4ea2",
+    "price": {
+     "en": "",
+     "ar": ""
+    }
+   },
+   {
+    "id": "svc-2",
+    "name": {
+     "en": "Orthodontics",
+     "ar": "تقويم الأسنان"
+    },
+    "desc": {
+     "en": "Invisible alignment that fits around your life, not the other way.",
+     "ar": "تقويم شفاف يتكيّف حول حياتكم، لا العكس."
+    },
+    "facts": {
+     "en": [
+      "9–14 months avg.",
+      "Trays 22h / day",
+      "3D-guided tracking"
+     ],
+     "ar": [
+      "9–14 شهرًا متوسطًا",
+      "قوالب 22 ساعة يوميًا",
+      "متابعة ثلاثية الأبعاد"
+     ]
+    },
+    "accent": "#0e8f7e",
+    "price": {
+     "en": "",
+     "ar": ""
+    }
+   },
+   {
+    "id": "svc-3",
+    "name": {
+     "en": "Implantology",
+     "ar": "زرع الأسنان"
+    },
+    "desc": {
+     "en": "Titanium roots placed with fully guided surgical precision.",
+     "ar": "جذور تيتانيوم تُوضع بدقة جراحية موجهة بالكامل."
+    },
+    "facts": {
+     "en": [
+      "3D-guided placement",
+      "10-year warranty",
+      "Same-day crowns*"
+     ],
+     "ar": [
+      "وضع موجه ثلاثي الأبعاد",
+      "ضمان المُصنع 10 سنوات",
+      "تيجان في اليوم نفسه*"
+     ]
+    },
+    "accent": "#5b5bd6",
+    "price": {
+     "en": "",
+     "ar": ""
+    }
+   },
+   {
+    "id": "svc-4",
+    "name": {
+     "en": "Whitening",
+     "ar": "تبييض الأسنان"
+    },
+    "desc": {
+     "en": "Clinically bright shades, balanced to look naturally yours.",
+     "ar": "درجات بريق سريرية، متوازنة لتبدو طبيعية لكم."
+    },
+    "facts": {
+     "en": [
+      "1 laser session",
+      "Up to 8 shades",
+      "Take-home kit"
+     ],
+     "ar": [
+      "جلسة ليزر واحدة",
+      "حتى 8 درجات",
+      "طقم منزلي"
+     ]
+    },
+    "accent": "#d9822b",
+    "price": {
+     "en": "",
+     "ar": ""
+    }
+   },
+   {
+    "id": "svc-5",
+    "name": {
+     "en": "Surgical dentistry",
+     "ar": "جراحة الفم"
+    },
+    "desc": {
+     "en": "Calm, sterile, pain-managed oral surgery with sedation options.",
+     "ar": "جراحة فم هادئة معقمة مُدارة الألم، بخيارات تهدئة."
+    },
+    "facts": {
+     "en": [
+      "Sterile suite",
+      "Sedation options",
+      "Fast-healing protocol"
+     ],
+     "ar": [
+      "جناح معقم",
+      "خيارات تهدئة",
+      "بروتوكول شفاء سريع"
+     ]
+    },
+    "accent": "#c2554f",
+    "price": {
+     "en": "",
+     "ar": ""
+    }
+   }
+  ],
+  "specialists": [
+   {
+    "id": "doc-1",
+    "name": {
+     "en": "Dr. David Wilson",
+     "ar": "د. ديفيد ويلسون"
+    },
+    "tag": {
+     "en": "Orthodontist",
+     "ar": "تقويم الأسنان"
+    },
+    "since": "2014",
+    "bio": {
+     "en": "Alignment should disappear into your life — trays you forget you are wearing.",
+     "ar": "يجب أن يختفي التقويم داخل حياتكم — قوالب تنسون أنكم ترتدونها."
+    },
+    "accent": "#0e8f7e",
+    "portrait": "images/doc-1.jpg",
+    "glow": "images/specglow-1.jpg"
+   },
+   {
+    "id": "doc-2",
+    "name": {
+     "en": "Dr. Emma Robinson",
+     "ar": "د. إيما روبنسون"
+    },
+    "tag": {
+     "en": "Aesthetic dentist",
+     "ar": "تجميل الأسنان"
+    },
+    "since": "2016",
+    "bio": {
+     "en": "Beauty that reads as health: nothing added that your smile did not ask for.",
+     "ar": "جمالٌ يُقرأ كصحة: لا نضيف شيئًا لم تطلبه ابتسامتكم."
+    },
+    "accent": "#0b4ea2",
+    "portrait": "images/doc-2.jpg",
+    "glow": "images/specglow-2.jpg"
+   },
+   {
+    "id": "doc-3",
+    "name": {
+     "en": "Dr. Sophia Turner",
+     "ar": "د. صوفيا تورنر"
+    },
+    "tag": {
+     "en": "Endodontist",
+     "ar": "علاج الجذور"
+    },
+    "since": "2012",
+    "bio": {
+     "en": "Saving the natural tooth is always the first plan, never the last resort.",
+     "ar": "إنقاذ السن الطبيعي هو الخطة الأولى دائمًا، لا الملاذ الأخير."
+    },
+    "accent": "#8a63d2",
+    "portrait": "images/doc-3.jpg",
+    "glow": "images/specglow-3.jpg"
+   },
+   {
+    "id": "doc-4",
+    "name": {
+     "en": "Dr. Olivia Bennett",
+     "ar": "د. أوليفيا بينيت"
+    },
+    "tag": {
+     "en": "Prosthodontist",
+     "ar": "تعويضات الأسنان"
+    },
+    "since": "2018",
+    "bio": {
+     "en": "Every crown is engineered to bite, speak and age exactly like your own.",
+     "ar": "كل تاج مُهندَس ليعضّ وينطق ويشيخ كأسنانكم تمامًا."
+    },
+    "accent": "#d9822b",
+    "portrait": "images/doc-4.jpg",
+    "glow": "images/specglow-4.jpg"
+   },
+   {
+    "id": "doc-5",
+    "name": {
+     "en": "Dr. James Carter",
+     "ar": "د. جيمس كارتر"
+    },
+    "tag": {
+     "en": "Implantologist",
+     "ar": "زرع الأسنان"
+    },
+    "since": "2010",
+    "bio": {
+     "en": "Precision in millimetres today is confidence for decades tomorrow.",
+     "ar": "دقة المليمترات اليوم هي ثقة عقودٍ غدًا."
+    },
+    "accent": "#5b5bd6",
+    "portrait": "images/doc-5.jpg",
+    "glow": "images/specglow-5.jpg"
+   },
+   {
+    "id": "doc-6",
+    "name": {
+     "en": "Dr. Daniel Hayes",
+     "ar": "د. دانيال هايز"
+    },
+    "tag": {
+     "en": "Oral surgeon",
+     "ar": "جراحة الفم"
+    },
+    "since": "2011",
+    "bio": {
+     "en": "Calm hands, sterile field, honest words — surgery without the story.",
+     "ar": "يد هادئة، ميدان معقم، كلام صادق — جراحة بلا حكايات."
+    },
+    "accent": "#c2554f",
+    "portrait": "images/doc-6.jpg",
+    "glow": "images/specglow-6.jpg"
+   }
+  ],
+  "testimonials": [
+   {
+    "id": "story-1",
+    "credit": {
+     "en": "Christina",
+     "ar": "كريستينا"
+    },
+    "loc": {
+     "en": "Aesthetic dentistry / 01",
+     "ar": "تجميل الأسنان / 01"
+    },
+    "title": {
+     "en": "Christina's smile, transformed",
+     "ar": "ابتسامة كريستينا، تحوّلت"
+    },
+    "desc": {
+     "en": "Christina felt self-conscious about the gaps and uneven shape of her teeth. Ultra-thin porcelain veneers gave her a balanced, natural, confidently beautiful smile.",
+     "ar": "كانت كريستينا تشعر بحرج من الفراغات وعدم انتظام شكل أسنانها. عدسات بورسلين فائقة الرقة منحتها ابتسامة متوازنة، طبيعية، جميلة بثقة."
+    },
+    "altAfter": {
+     "en": "Christina's smile after treatment",
+     "ar": "ابتسامة كريستينا بعد العلاج"
+    },
+    "altBefore": {
+     "en": "Christina's smile before treatment",
+     "ar": "ابتسامة كريستينا قبل العلاج"
+    },
+    "before": "images/t1-before.jpg",
+    "after": "images/t1-after.jpg",
+    "portrait": "images/p1.jpg"
+   },
+   {
+    "id": "story-2",
+    "credit": {
+     "en": "Marcus",
+     "ar": "ماركوس"
+    },
+    "loc": {
+     "en": "Orthodontics / 02",
+     "ar": "تقويم الأسنان / 02"
+    },
+    "title": {
+     "en": "Marcus's smile, straightened",
+     "ar": "ابتسامة ماركوس، استقامت"
+    },
+    "desc": {
+     "en": "Years of crowding made Marcus hide his smile in every photo. Nine months of clear-aligner therapy aligned his arch — no brackets, no interruptions, no compromises.",
+     "ar": "سنون من التزاحم جعلت ماركوس يخفي ابتسامته في كل صورة. تسعة أشهر من التقويم الشفاف صفّت قوسه — بلا حاصرات، بلا انقطاعات، بلا تنازلات."
+    },
+    "altAfter": {
+     "en": "Marcus's smile after treatment",
+     "ar": "ابتسامة ماركوس بعد العلاج"
+    },
+    "altBefore": {
+     "en": "Marcus's smile before treatment",
+     "ar": "ابتسامة ماركوس قبل العلاج"
+    },
+    "before": "images/t2-before.jpg",
+    "after": "images/t2-after.jpg",
+    "portrait": "images/p2.jpg"
+   },
+   {
+    "id": "story-3",
+    "credit": {
+     "en": "Elena",
+     "ar": "إيلينا"
+    },
+    "loc": {
+     "en": "Implantology / 03",
+     "ar": "زرع الأسنان / 03"
+    },
+    "title": {
+     "en": "Elena's smile, restored",
+     "ar": "ابتسامة إيلينا، استُعيدت"
+    },
+    "desc": {
+     "en": "A damaged, discolored molar changed the way Elena ate and smiled. A single 3D-guided implant brought back full function — and the confidence to laugh out loud again.",
+     "ar": "ضررٌ وتلوّن في ضرسٍ غيّرا طريقة إيلينا في الأكل والابتسام. زرعة واحدة موجهة ثلاثية الأبعاد أعادت الوظيفة كاملة — والثقة لتضحك ملء صوتها من جديد."
+    },
+    "altAfter": {
+     "en": "Elena's smile after treatment",
+     "ar": "ابتسامة إيلينا بعد العلاج"
+    },
+    "altBefore": {
+     "en": "Elena's smile before treatment",
+     "ar": "ابتسامة إيلينا قبل العلاج"
+    },
+    "before": "images/t3-before.jpg",
+    "after": "images/t3-after.jpg",
+    "portrait": "images/p3.jpg"
+   },
+   {
+    "id": "story-4",
+    "credit": {
+     "en": "Sara",
+     "ar": "سارا"
+    },
+    "loc": {
+     "en": "Whitening / 04",
+     "ar": "تبييض الأسنان / 04"
+    },
+    "title": {
+     "en": "Sara's smile, brightened",
+     "ar": "ابتسامة سارا، أشرقت"
+    },
+    "desc": {
+     "en": "Coffee years left their mark on Sara's smile. One in-studio laser session and a take-home kit turned the clock back several shades — safely and evenly.",
+     "ar": "Coffee years left their mark on Sara's smile. One in-studio laser session and a take-home kit turned the clock back several shades — safely and evenly."
+    },
+    "altAfter": {
+     "en": "Sara's smile after treatment",
+     "ar": "ابتسامة سارا بعد العلاج"
+    },
+    "altBefore": {
+     "en": "Sara's smile before treatment",
+     "ar": "ابتسامة سارا قبل العلاج"
+    },
+    "before": "images/t4-before.jpg",
+    "after": "images/t4-after.jpg",
+    "portrait": "images/p4.jpg"
+   }
+  ],
+  "faq": [
+   {
+    "q": {
+     "en": "Does treatment hurt?",
+     "ar": "هل العلاج مؤلم؟"
+    },
+    "a": {
+     "en": "Almost never. We numb fully before we begin, and for anxious patients we offer sedation options so the visit passes calmly. You raise a hand at any moment and we stop.",
+     "ar": "نادراً جدًا. نخدّر تمامًا قبل أن نبدأ، وللمرضى القلقين نوفر خيارات تهدئة لتمضي الزيارة بهدوء. ارفعوا يدكم في أي لحظة ونتوقف."
+    }
+   },
+   {
+    "q": {
+     "en": "What does a consultation cost?",
+     "ar": "كم تكلفة المعاينة؟"
+    },
+    "a": {
+     "en": "A first consultation with full scanning is priced on our clinic price list, and it is credited back in full if you proceed with treatment within 30 days.",
+     "ar": "تُسعَّر المعاينة الأولى مع المسح الكامل في قائمة أسعار العيادة، وتُرد لكم كاملة إن بدأتم العلاج خلال 30 يومًا."
+    }
+   },
+   {
+    "q": {
+     "en": "Can I pay in instalments?",
+     "ar": "هل يمكنني التقسيط؟"
+    },
+    "a": {
+     "en": "Yes. Treatment plans over three months can be spread across interest-free monthly instalments, with longer regulated finance available for larger plans.",
+     "ar": "نعم. خطط العلاج فوق ثلاثة أشهر تُقسَّط شهريًا بلا فوائد، مع تمويل منظم أطول للخطط الأكبر."
+    }
+   },
+   {
+    "q": {
+     "en": "How long does straightening take?",
+     "ar": "كم يستغرق التقويم؟"
+    },
+    "a": {
+     "en": "Most aligner cases finish in 9–14 months. You see a 3D preview of your final smile and the expected timeline before you commit to anything.",
+     "ar": "معظم حالات التقويم الشفاف تنتهي خلال 9–14 شهرًا. ترون معاينة ثلاثية الأبعاد لابتسامتكم النهائية والجدول المتوقع قبل أي التزام."
+    }
+   },
+   {
+    "q": {
+     "en": "I am anxious about dentists. Can you help?",
+     "ar": "أنا قلق من أطباء الأسنان، هل تساعدونني؟"
+    },
+    "a": {
+     "en": "That is our most common visit. We book longer first visits, explain every step before it happens, and offer sedation for patients who need it. No judgement, ever.",
+     "ar": "هذه أكثر زياراتنا شيوعًا. نحجز زيارات أولى أطول، نشرح كل خطوة قبل حدوثها، ونوفر التهدئة لمن يحتاجها. بلا أي أحكام، أبدًا."
+    }
+   },
+   {
+    "q": {
+     "en": "What counts as an emergency?",
+     "ar": "ماذا يُعد حالة طارئة؟"
+    },
+    "a": {
+     "en": "Severe pain, swelling, a knocked-out tooth or a broken front tooth. Call us first thing: we keep same-day slots every working day for registered patients.",
+     "ar": "الألم الشديد، التورم، سن مخلوع، أو سن أمامي مكسور. اتصلوا بنا أول شيء: نحتفظ بمواعيد نفس اليوم لكل يوم عمل للمرضى المسجلين."
+    }
+   }
+  ],
+  "times": [
+   {
+    "v": {
+     "en": "Morning (9-12)",
+     "ar": "صباحًا (9-12)"
+    },
+    "label": {
+     "en": "Morning",
+     "ar": "صباحًا"
+    }
+   },
+   {
+    "v": {
+     "en": "Afternoon (12-4)",
+     "ar": "ظهرًا (12-4)"
+    },
+    "label": {
+     "en": "Afternoon",
+     "ar": "ظهرًا"
+    }
+   },
+   {
+    "v": {
+     "en": "Evening (4-7)",
+     "ar": "مساءً (4-7)"
+    },
+    "label": {
+     "en": "Evening",
+     "ar": "مساءً"
+    }
+   }
+  ]
+ },
+ "caps": {
+  "services": 5,
+  "specialists": 6,
+  "testimonials": 4,
+  "faq": 6
+ }
+}
